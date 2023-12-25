@@ -37,4 +37,6 @@ Obtain an API key from OpenWeather and replace the constant apiKey in lib/servic
 
 Now you have the Clima app set up on your local machine, ready for development or testing.
 
+
+
 Happy coding! 🚀
